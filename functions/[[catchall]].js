@@ -1,5 +1,5 @@
-const doh = 'https://freedns.controld.com/no-ads-malware'
-const dohjson = 'https://freedns.controld.com/no-ads-malware'
+const doh = 'https://dns.electrotm.org/dns-query'
+const dohjson = 'https://dns.electrotm.org/dns-query'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 
